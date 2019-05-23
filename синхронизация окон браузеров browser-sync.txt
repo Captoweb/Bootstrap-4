@@ -1,0 +1,8 @@
+﻿синхронизация окон браузеров browser-sync
+
+localhost:3001/sync-options
+
+команда для запуска 
+browser-sync start --server --files "*.css, *.html"
+
+или нажать на файл browsersync.bat
